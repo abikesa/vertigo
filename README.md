@@ -1,5 +1,6 @@
 > $\text{Years on Waitlist} \sim \ \beta_0 + \beta_1 \text{Patient History} + \beta_2 \text{Living Donation} + \beta_3 \text{Center Aggressiveness} + \beta_4 \text{Geographic Region} + \epsilon_i$    
-Drawing parallels between the structure of the regression model and the hierarchical structure of Greek mythology - GPT4
+Drawing parallels between the structure of the regression model and the hierarchical structure of Greek mythology - GPT4     
+> Eternal recurrence of the same - until the damned private eye messed with this solemn history of mankind
 
 ![](https://github.com/abikesa/vertigo/raw/main/vertigo.png)  
 
